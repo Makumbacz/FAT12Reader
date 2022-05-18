@@ -1,2 +1,2 @@
 # FAT12Reader
-My implementation of Fat12 reader (only for root directory).
+My implementation of Fat12 volumne reader (only for root directory).
